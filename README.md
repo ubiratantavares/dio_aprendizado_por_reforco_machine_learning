@@ -1,2 +1,9 @@
-# dio_aprendizado_por_reforco_machine_learning
-# dio_aprendizado_por_reforco_machine_learning
+# DIO - Aprendizado por Reforço em Machine Learning
+
+## Aprendizado e Componentes por reforço
+
+## Algoritmo de aprendizado por reforço na prática
+
+## Algoritmo Deep Q Learning
+
+## Estrutura do sistema de aprendizado por reforço
